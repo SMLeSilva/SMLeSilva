@@ -39,7 +39,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/JQZeQLV.png" width="500" height="500"/>
+  <img src="https://i.imgur.com/JQZeQLV.png" width="300" height="300"/>
 </div>
 
 <br>
@@ -60,10 +60,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=SMLeSilva&style=for-the-badge&color=brightgreen"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img style="width: max-content;" src="https://capsule-render.vercel.app/api?type=waving&height=170&color=gradient&section=footer" alt="footer">
 </div>
