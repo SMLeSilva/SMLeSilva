@@ -15,7 +15,7 @@
 <br>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+an+information+systems+student;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Desenvolvedor+Backend;Estudante+de+Sistemas+de+Informacao;Bem+vindo(a)!" alt="Typing SVG"/>
 </div>
 
 <br>
